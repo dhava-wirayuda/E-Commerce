@@ -79,8 +79,8 @@ npx expo start
 ---
 
 ### 👤 Author
-GitHub: @Eleanore-Py
+GitHub: @dhava-wirayuda
 
-Project: VESTON Streetwear App
+Project: VESTON High end cloth shopping App
 
 <p align="center">Made with ❤️ for Fullstack Mobile Development Study</p>
